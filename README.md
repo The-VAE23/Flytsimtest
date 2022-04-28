@@ -8,4 +8,4 @@ Build a demo app (using C++/Python FlytAPIs) to make the drone takeoff at 5m, mo
 # Run these programs:
 - place these files in /flyt directory
 - navigate to the library in shell
-- run using python drone.py
+- run using python flyttest.py
