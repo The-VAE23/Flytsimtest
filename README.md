@@ -1,6 +1,11 @@
 # Flytsimtest
 Demo app for FlytBase recruitment
 
-This app uses the FlytOS APIs to call the in-built navigation methods.
+# FlytSim Assignment
+Build a demo app (using C++/Python FlytAPIs) to make the drone takeoff at 5m, move in a square trajectory of side length 6.5m at height 5m and land once the entire mission is over. Demonstrate the app and fly the drone in the FlytSIM simulator.
 
-The app takes off to a height of 5m and traces a square of length of 6.5 m, landing soon after.
+
+# Run these programs:
+- place these files in /flyt directory
+- navigate to the library in shell
+- run using python drone.py
